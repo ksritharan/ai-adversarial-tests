@@ -3,3 +3,7 @@ This repository is for red-teaming research. It contains malicious instructions 
 
 
 The sites pages contains adversarial prompts to test jailbreaking for research purposes only
+
+Credit to https://github.com/e2sy/jailbreak-archives/blob/main/Chatgpt/working2nd
+
+For the adversarial prompt
